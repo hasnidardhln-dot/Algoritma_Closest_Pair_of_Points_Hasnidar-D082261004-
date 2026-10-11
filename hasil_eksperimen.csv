@@ -1,0 +1,15 @@
+n,algoritma,rata_rata_ms,simpangan_baku_ms,ulangan
+100,brute_force,0.6209,0.0293,5
+100,divide_conquer,0.1933,0.0157,5
+500,brute_force,16.3649,0.8769,5
+500,divide_conquer,1.1618,0.0604,5
+1000,brute_force,71.4072,10.2584,5
+1000,divide_conquer,2.4916,0.1743,5
+2000,brute_force,268.5128,11.7443,5
+2000,divide_conquer,5.4777,0.1385,5
+5000,brute_force,1750.9556,65.7904,5
+5000,divide_conquer,13.8337,0.2176,5
+10000,brute_force,6845.5189,133.6505,5
+10000,divide_conquer,30.0380,1.0042,5
+50000,divide_conquer,206.3813,9.5813,5
+100000,divide_conquer,448.5238,13.8920,5

@@ -1,0 +1,6 @@
+sebaran,n,rata_rata_ms,simpangan_baku_ms,jumlah_jarak,uji_benar
+seragam,20000,118.8960,27.8537,34334,ya
+berklaster,20000,88.4966,4.2661,33701,ya
+segaris,20000,54.4054,1.2467,24986,ya
+strip_sempit,20000,125.5297,39.4261,34841,ya
+kisi_teratur,19881,66.3282,0.2370,23378,ya
